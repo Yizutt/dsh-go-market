@@ -1,6 +1,6 @@
 {
   "name": "dsh-modelscope-pool",
-  "version": "0.9.0",
+  "version": "0.10.0",
   "title": {
     "en": "ModelScope key pool",
     "zh": "魔搭 Key 池"
